@@ -101,7 +101,7 @@ En la página de configuración:
 
 Clic en **"Save and Deploy"**
 
-### Paso 7: ¡Listo! Tu sitio está en línea
+### Paso 7: ¡Listo! Tu sitio está en línea tu web
 
 Cloudflare te dará una URL como:
 ```
